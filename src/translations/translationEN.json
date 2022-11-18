@@ -1,0 +1,26 @@
+{
+  "Launch": "Launch",
+  "Upcoming": "Upcoming",
+  "History": "History",
+  "Launch Date": "Launch Date",
+  "Mission Name": "Mission Name",
+  "Rocket Type": "Rocket Type",
+  "Destination Exoplanet": "Destination Exoplanet",
+  "Num.": "Num.",
+  "Date": "Date",
+  "Mission": "Mission",
+  "Rocket": "Rocket",
+  "Destination": "Destination",
+  "Customers": "Customers",
+
+  "headerWords": "NASA Mission Control",
+  "launchParagraph1": "Schedule a mission launch for interstellar travel to one of the Kepler Exoplanets.",
+  "launchParagraph2": "Only confirmed planets matching the following criteria are available for the earliest scheduled missions:",
+  "launchLi1": "Planetary radius < 1.6 times Earth's radius",
+  "launchLi2": "Effective stellar flux > 0.36 times Earth's value and < 1.11 times Earth's value",
+  "launchButton": "Launch Mission ✔",
+  "footerParagraph": "This is not an official site and is not affiliated witarah NASA or SpaceX in any way. For educational purposes only.",
+  "upcomingParagraph": "Upcoming missions: SpaceX launches and newly scheduled rockets.",
+  "upcomingWords": "Warning! Clicking on the ✖ aborts the mission.",
+  "historyParagraph": "History of mission launches, including SpaceX launches from 2006."
+}

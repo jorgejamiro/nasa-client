@@ -1,0 +1,26 @@
+{
+  "Launch": "Lanzamiento",
+  "Upcoming": "Próximos",
+  "History": "Historial",
+  "Launch Date": "Fecha del Lanzamiento",
+  "Mission Name": "Nombre de la Misión",
+  "Rocket Type": "Tipo de Cohete",
+  "Destination Exoplanet": "Exoplaneta de Destino",
+  "Num.": "Núm.",
+  "Date": "Fecha",
+  "Mission": "Misión",
+  "Rocket": "Cohete",
+  "Destination": "Destino",
+  "Customers": "Clientes", 
+
+  "headerWords": "NASA Control de Misiones",
+  "launchParagraph1": "Planifica el lanzamiento de una misión para un viaje interestelar a uno de los Exoplanetas de Kepler.",
+  "launchParagraph2": "Sólo planetas confirmados que sigan el siguiente criterio están disponibles para las misiones planificadas más próximas:",
+  "launchLi1": "Radio del planeta < 1,6 veces el radio de la Tierra",
+  "launchLi2": "Flujo estelar efectivo > 0,36 veces el de la Tierra y < 1,11 veces el de la Tierra",
+  "launchButton": "Lanzar Misión ✔",
+  "footerParagraph": "Sitio no oficial y no afiliado con la NASA ni con SpaceX en ningún caso. Sólo por fines educativos.",
+  "upcomingParagraph": "Próximas misiones: Lanzamientos de SpaceX y cohetes planificados recientemente.",
+  "upcomingWords": "Aviso! Hacer click en ✖ aborta la misión.",
+  "historyParagraph": "Historial del lanzamiento de misiones, incluyendo lanzamientos de SpaceX a partir de 2006."
+}
